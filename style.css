@@ -1,0 +1,59 @@
+body{
+    background-color: rgba(0, 0, 0, 0.112);
+
+}
+*{
+    text-align: center;
+}
+header{
+    background-color: #333;
+    color:white;
+    padding: 10px;
+    text-align: center;
+}
+nav{
+    background-color: #33333378;
+    padding: 10px;
+}
+nav ul{
+    list-style-type: none;
+    text-align: center;
+}
+nav li{
+    display: inline-block;
+    margin: 0 20px;
+}
+nav a{
+    text-decoration: none;
+    color: white;
+}
+#Home{
+    background-color: rgba(210, 105, 30, 0.348);
+}
+.second{
+    text-align: right;
+}
+#About{
+    background-color: aqua;
+}
+.image{
+    display: inline-block;
+    width: 400px;
+    text-align: center;
+    margin: 0 10px;
+}
+.image img{
+    max-width: 100%;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    bottom: 0;
+    width: 100%;
+    clear: both;
+}
+iframe {
+    text-align: center;
+}
